@@ -1,0 +1,22 @@
+{
+  "name": "fahri-express",
+  "version": "1.0.0",
+  "description": "Repo Materi Express Eduwork",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/fahrikurniawan99/fahri-express.git"
+  },
+  "author": "fahri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fahrikurniawan99/fahri-express/issues"
+  },
+  "homepage": "https://github.com/fahrikurniawan99/fahri-express#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
