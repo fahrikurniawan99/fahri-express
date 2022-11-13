@@ -15,6 +15,7 @@ router.get("/product", (req, res) => {
     });
   }
   res.json({
+    status: "failed",
     message: "query of product name undefined",
   });
 });
